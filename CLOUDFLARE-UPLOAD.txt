@@ -1,0 +1,13 @@
+SOLANA TEC GRAND OPENING — CLOUDFLARE PAGES
+
+Ready-to-upload options:
+
+1. Upload the folder named "cloudflare-deploy" using Cloudflare Pages Direct Upload.
+2. Or upload "solanatec-grand-opening-cloudflare.zip".
+
+The deploy package contains only:
+- index.html
+- _headers
+- assets used by the page
+
+No build command, framework, server, or environment variables are required.
